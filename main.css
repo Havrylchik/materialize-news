@@ -1,0 +1,33 @@
+nav a{
+    margin-left: 10%;
+}
+nav ul{
+    
+    margin-right: 10%;
+}
+nav img{
+    margin-top: 5px;
+}
+
+
+
+.avatar{
+    width: auto;
+    margin-bottom: 15px;
+}
+.avatar p{
+    font-size: small;
+    height: 5px;
+}
+.avatar img{
+    margin-right: 15px;
+}
+
+.grey_text span{
+    font-size: smaller;
+}
+.blue-text{
+    font-size: small;
+    height: 15px;
+    margin-top: 7px;
+}
